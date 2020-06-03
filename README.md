@@ -10,3 +10,6 @@ And I think an analysis of the icons of the apps would be pretty cool.
 
 ## Dataset Source Kaggle
 <a href="https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games">https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games</a>
+
+## Intresting find out 
+As referred from the background it sites that 'present date' can be set as 3 August 2019 for anlysis but in exploratory data analysis it is evident that data is not taken on 3 August 2019 i.e data include few apps that show Original Release Date as 26-10-2019  
